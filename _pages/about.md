@@ -25,13 +25,13 @@ My research interests are Machine Learning applications, including Recommender S
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, best students awards in 2 tracks and overall ranking 2/508 in **Amazon KDD CUP 2024**! A big shoutout to the awesome teamwork with my teammates Pengyue, Jingtong, Xiaopeng and Zixuan!
+- *2024.07*: &nbsp;🎉🎉 Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, best students awards in 2 tracks and overall **ranking 2/508** in **Amazon KDD CUP 2024**! A big shoutout to the awesome teamwork with my teammates Pengyue, Jingtong, Xiaopeng and Zixuan!
 - *2024.06*: &nbsp;🎉🎉 Started a Machine Learning Engineer internship at **ASTRI** - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院).
 
 
 # 📝 Publications 
 ## Workshop
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop 2024</div><img src='images/kdd_cup.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop 2024</div><img src='images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [2nd Place Solution in Overall for Amazon KDD Cup 2024]()
