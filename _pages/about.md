@@ -25,6 +25,7 @@ My research interests are Machine Learning applications, including Recommender S
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Started a NLP-Machine Learning Engineer internship at **vivo** - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司).
 - *2024.07*: &nbsp;🎉🎉 Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, best students awards in 2 tracks and overall **ranking 2/508** in **Amazon KDD CUP 2024**! A big shoutout to the awesome teamwork with my teammates Pengyue, Jingtong, Xiaopeng and Zixuan!
 - *2024.06*: &nbsp;🎉🎉 Started a Machine Learning Engineer internship at **ASTRI** - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院).
 
@@ -50,11 +51,13 @@ Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large L
 
 # 🎖 Honors and Awards
 - *2024.07* Second place🥈 in 2 tracks, third place🥉 in 3 tracks and best students awards in 2 tracks in **Amazon KDD CUP 2024**, overall ranking 2/508 teams, Awarded 8750 USD, Granted by Amazon. [[Leaderboard]](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards)
+- *2023.07* HKSAR Government Scholarship Fund 2022/23, Awarded HK$10,000.
 - *2021.09 - 2024.06* Dean’s List in School of Data Science * 5 
 
 # 📖 Educations
-- *2021.09 - 2025.05*, BSc in Data Science, City University of Hong Kong
+- *2021.08 - 2025.06*, BSc in Data Science, City University of Hong Kong
 
 # 💻 Internships
+- *2025.03 - 2025.06*, NLP-Machine Learning Engineer (LLM + Recommender System), vivo - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司) - AI Dept, Shenzhen.
 - *2024.06 - 2024.08*, Machine Learning Engineer (LLM & LMM), ASTRI - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院) - AI Dept, Hong Kong.
 - *2024.01 - 2024.06*, Research Assistant, Lab on Enterprise Process Innovation and Computing, Department of Information Systems, CityU, Hong Kong.
