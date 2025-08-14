@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "JIN Yiyao"
-description              : "Fourth-year Data Science undergraduate student at CityU HK"
+description              : "Artificial Intelligence postgraduate student at NTU"
 repository               : "Fiona1224/Fiona1224.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "JIN Yiyao"
   avatar           : "images/life_pic2.jpg"
   bio              : 
-  location         : "Hong Kong SAR, China"
+  location         : "Singapore & HK"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "yiyao.jin@my.cityu.edu.hk"
+  email            : "fionajin24@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
