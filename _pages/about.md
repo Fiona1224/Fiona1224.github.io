@@ -30,6 +30,11 @@ My research interests are Machine Learning applications, including Large Languag
 - *2024.07*: &nbsp;🎉🎉 Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, best students awards in 2 tracks and overall **ranking 2/508** in **Amazon KDD CUP 2024**! A big shoutout to the awesome teamwork with my teammates Pengyue, Jingtong, Xiaopeng and Zixuan!
 - *2024.06*: &nbsp;🎉🎉 Started a Machine Learning Engineer internship at **ASTRI** - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院).
 
+# 💻 Internships
+- *2025.03 - 2025.06*, NLP-Machine Learning Engineer (LLM + Recommender System), vivo - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司) - AI Dept, Shenzhen.
+- *2024.06 - 2024.08*, Machine Learning Engineer (LLM & LMM), ASTRI - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院) - AI Dept, Hong Kong.
+- *2024.01 - 2024.06*, Research Assistant, Lab on Enterprise Process Innovation and Computing, Department of Information Systems, CityU, Hong Kong.
+
 
 # 📝 Publications 
 ## Workshop
@@ -59,8 +64,3 @@ Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large L
 # 📖 Educations
 - *2025.08 - Present*, MSc in Artificial Intelligence, Nanyang Technological University
 - *2021.08 - 2025.06*, BSc in Data Science, City University of Hong Kong
-
-# 💻 Internships
-- *2025.03 - 2025.06*, NLP-Machine Learning Engineer (LLM + Recommender System), vivo - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司) - AI Dept, Shenzhen.
-- *2024.06 - 2024.08*, Machine Learning Engineer (LLM & LMM), ASTRI - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院) - AI Dept, Hong Kong.
-- *2024.01 - 2024.06*, Research Assistant, Lab on Enterprise Process Innovation and Computing, Department of Information Systems, CityU, Hong Kong.
