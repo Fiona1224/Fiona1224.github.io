@@ -36,8 +36,8 @@ My research interests are Machine Learning applications, including Large Languag
 - *2024.01 - 2024.06*, Research Assistant, Lab on Enterprise Process Innovation and Computing, Department of Information Systems, CityU, Hong Kong.
 
 
-# 📝 Publications 
-## Workshop
+# 📝 Publications & Projects
+## Conference
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop 2024</div><img src='images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,13 +51,22 @@ Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large L
 
 [**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) \|  [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Code**](https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit)
 </div>
-</div>
 
+## Journal 
+
+## Pending Submission
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending Submission</div><img src='images/poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation]()
+
+Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)
+</div>
 
 
 # 🎖 Honors and Awards
 - *2025.06* Graduated from CityU with First Class Honours.
-- *2024.07* Second place🥈 in 2 tracks, third place🥉 in 3 tracks and best students awards in 2 tracks in **Amazon KDD CUP 2024**, overall ranking 2/508 teams, Awarded 8750 USD, Granted by Amazon. [[Leaderboard]](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards)
+- *2024.07* Second place🥈 in 2 tracks, third place🥉 in 3 tracks and Best Students Awards in 2 tracks in **Amazon KDD CUP 2024**, overall ranking 2/508 teams, Awarded US$8750, Granted by Amazon. [[Leaderboard]](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards)
 - *2023.07* HKSAR Government Scholarship Fund 2022/23, Awarded HK$10,000.
 - *2021.08 - 2025.06* Dean’s List in School of Data Science
 
