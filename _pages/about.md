@@ -53,6 +53,14 @@ Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large L
 </div>
 
 ## Journal 
+<div class='paper-box-text' markdown="1">
+
+[Speaker’s Use of Mental Verbs to Convey Belief States: A Comparison between Humans and Large Language Model (LLM)](https://scholars.cityu.edu.hk/en/publications/speakers-use-of-mental-verbs-to-convey-belief-states-a-comparison) 
+
+Ruoxi Qi, **Zixuan Wang**, Antoni B. Chan, and Janet H. Hsiao
+<br/><br/>
+19th International Pragmatics Conference, Brisbane, Jun 2025
+</div>
 
 ## Pending Submission
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending Submission</div><img src='images/poster.png' alt="sym" width="100%"></div></div>
