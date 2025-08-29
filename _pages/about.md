@@ -92,7 +92,7 @@ My research interests are Machine Learning applications, including Large Languag
   <div class="paper-box-image">
     <div>
       <div class="badge">Under Review</div>
-      <img src="images/poster.png" alt="sym" width="100%">
+      <img src="images/abs.jpg" alt="sym" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
