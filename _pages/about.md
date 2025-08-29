@@ -66,7 +66,7 @@ My research interests are Machine Learning applications, including Large Languag
       <a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards"><b>Leaderboard</b></a> |
       <a href="https://openreview.net/pdf?id=OEjXPwR7aE"><b>Paper</b></a> |
       <a href="https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit"><b>Code</b></a> |
-      <a href="https://github.com/Eden-Wang1710/Eden-Wang1710.github.io/blob/main/docs/KDD_Cup_Certificate.pdf"><b>Certification</b></a>
+      <a href="https://github.com/Fiona1224/Fiona1224.github.io/blob/main/docs/KDD_Cup_Certificate.pdf"><b>Certification</b></a>
     </p>
   </div>
 </div>
@@ -97,7 +97,7 @@ My research interests are Machine Learning applications, including Large Languag
   </div>
   <div class="paper-box-text">
 
-    <p>Video Analysis in Live Streaming E-Commerce</p>
+    <p><a href="#">Video Analysis in Live Streaming E-Commerce</a></p>
 
     <p>Yunhui Wang, <b>Yiyao Jin</b>, Junming Liu</p>
 
