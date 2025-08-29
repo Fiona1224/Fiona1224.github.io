@@ -37,72 +37,74 @@ My research interests are Machine Learning applications, including Large Languag
 
 
 # 📝 Publications & Projects
+
 ## Conference
-<table>
-<tr>
-<td width="30%">
-  <img src="images/prompt.png" alt="sym" width="100%">
-  <div><b>KDD Workshop 2024</b></div>
-</td>
-<td width="70%">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">KDD Workshop 2024 Oral</div>
+      <img src="images/prompt.png" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
 
-[2nd Place Solution in Overall for Amazon KDD Cup 2024]()
+    <p><a href="https://openreview.net/forum?id=OEjXPwR7aE#discussion">2nd Place Solution in Overall for Amazon KDD Cup 2024</a></p>
 
-Pengyue Jia\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)  
-<br/><br/>
-Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models
-- LLM for multi-task online shopping
-- LLM quantization, inference acceleration and prompt design  
+    <p>Pengyue Jia*, Jingtong Gao*, Xiaopeng Li*, Zixuan Wang*, <b>Yiyao Jin</b>*, Xiangyu Zhao (*: Equal Contribution)</p>
 
-[**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| 
-[**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) \|  
-[**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| 
-[**Code**](https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit)
+    <p>KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models (Oral)</p>
+    <ul>
+      <li>LLM for multi-task online shopping</li>
+      <li>LLM quantization, inference acceleration and prompt design</li>
+    </ul>
 
-</td>
-</tr>
-</table>
+    <p>
+      <a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms"><b>Competition</b></a> |
+      <a href="https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards"><b>Leaderboard</b></a> |
+      <a href="https://openreview.net/pdf?id=OEjXPwR7aE"><b>Paper</b></a> |
+      <a href="https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit"><b>Code</b></a> |
+      <a href="https://github.com/Eden-Wang1710/Eden-Wang1710.github.io/blob/main/docs/KDD_Cup_Certificate.pdf"><b>Certification</b></a>
+    </p>
+  </div>
+</div>
 
 ---
 
 ## Journal
-<table>
-<tr>
-<td width="30%">
-  <img src="images/poster.png" alt="sym" width="100%">
-  <div><b>International Pragmatics Conference</b></div>
-</td>
-<td width="70%">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">International Pragmatics Conference</div>
+      <img src="images/poster.png" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
 
-[Speaker’s Use of Mental Verbs to Convey Belief States: A Comparison between Humans and Large Language Model (LLM)](https://scholars.cityu.edu.hk/en/publications/speakers-use-of-mental-verbs-to-convey-belief-states-a-comparison)  
+    <p><a href="https://scholars.cityu.edu.hk/en/publications/speakers-use-of-mental-verbs-to-convey-belief-states-a-comparison">Speaker’s Use of Mental Verbs to Convey Belief States: A Comparison between Humans and Large Language Model (LLM)</a></p>
 
-Ruoxi Qi, **Zixuan Wang**, Antoni B. Chan, and Janet H. Hsiao  
-<br/><br/>
-19th International Pragmatics Conference, Brisbane, Jun 2025
+    <p>Ruoxi Qi, <b>Zixuan Wang</b>, Antoni B. Chan, and Janet H. Hsiao</p>
 
-</td>
-</tr>
-</table>
+    <p>19th International Pragmatics Conference, Brisbane, Jun 2025</p>
+  </div>
+</div>
 
 ---
 
 ## Pending Submission
-<table>
-<tr>
-<td width="30%">
-  <img src="images/poster.png" alt="sym" width="100%">
-  <div><b>Pending Submission</b></div>
-</td>
-<td width="70%">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Pending Submission</div>
+      <img src="images/poster.png" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
 
-[SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation]()  
+    <p><a href="#">SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation</a></p>
 
-Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)
-
-</td>
-</tr>
-</table>
-
+    <p>Zixuan Wang*, <b>Yiyao Jin</b>*, Xiangyu Zhao (*: Equal Contribution)</p>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.06* Graduated from CityU with First Class Honours.
