@@ -38,6 +38,24 @@ My research interests are Machine Learning applications, including Large Languag
 
 # 📝 Publications & Projects
 ## Conference
+
+**KDD Workshop 2024**  
+![sym](images/prompt.png)
+
+[2nd Place Solution in Overall for Amazon KDD Cup 2024]()
+
+Pengyue Jia\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)
+
+Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models
+- LLM for multi-task online shopping
+- LLM quantization, inference acceleration and prompt design
+
+[**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) | 
+[**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) | 
+[**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) | 
+[**Code**](https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit)
+
+## Conference
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop 2024</div><img src='images/prompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,6 +69,7 @@ Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large L
 
 [**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) \|  [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Code**](https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit)
 </div>
+
 
 ## Journal 
 <div class='paper-box-text' markdown="1">
