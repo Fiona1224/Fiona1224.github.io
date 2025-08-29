@@ -38,57 +38,70 @@ My research interests are Machine Learning applications, including Large Languag
 
 # 📝 Publications & Projects
 ## Conference
-
-**KDD Workshop 2024**  
-![sym](images/prompt.png)
+<table>
+<tr>
+<td width="30%">
+  <img src="images/prompt.png" alt="sym" width="100%">
+  <div><b>KDD Workshop 2024</b></div>
+</td>
+<td width="70%">
 
 [2nd Place Solution in Overall for Amazon KDD Cup 2024]()
 
-Pengyue Jia\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)
-
+Pengyue Jia\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)  
+<br/><br/>
 Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models
 - LLM for multi-task online shopping
-- LLM quantization, inference acceleration and prompt design
+- LLM quantization, inference acceleration and prompt design  
 
-[**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) | 
-[**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) | 
-[**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) | 
+[**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| 
+[**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) \|  
+[**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| 
 [**Code**](https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit)
 
-## Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop 2024</div><img src='images/prompt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+</td>
+</tr>
+</table>
 
-[2nd Place Solution in Overall for Amazon KDD Cup 2024]()
+---
 
-Pengyue Jia\*, Jingtong Gao\*, Xiaopeng Li\*, Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)
-<br/><br/>
-Amazon KDD Cup 2024 Workshop: A Multi-task Online Shopping Challenge for Large Language Models
-- LLM for multi-task online shopping
-- LLM quantization, inference acceleration and prompt design
+## Journal
+<table>
+<tr>
+<td width="30%">
+  <img src="images/poster.png" alt="sym" width="100%">
+  <div><b>International Pragmatics Conference</b></div>
+</td>
+<td width="70%">
 
-[**Competition**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) \| [**Leaderboard**](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms/leaderboards) \|  [**Paper**](https://openreview.net/pdf?id=OEjXPwR7aE) \| [**Code**](https://gitlab.aicrowd.com/gaojingtong/amazon-kdd-cup-2024-starter-kit)
-</div>
+[Speaker’s Use of Mental Verbs to Convey Belief States: A Comparison between Humans and Large Language Model (LLM)](https://scholars.cityu.edu.hk/en/publications/speakers-use-of-mental-verbs-to-convey-belief-states-a-comparison)  
 
-
-## Journal 
-<div class='paper-box-text' markdown="1">
-
-[Speaker’s Use of Mental Verbs to Convey Belief States: A Comparison between Humans and Large Language Model (LLM)](https://scholars.cityu.edu.hk/en/publications/speakers-use-of-mental-verbs-to-convey-belief-states-a-comparison) 
-
-Ruoxi Qi, **Zixuan Wang**, Antoni B. Chan, and Janet H. Hsiao
+Ruoxi Qi, **Zixuan Wang**, Antoni B. Chan, and Janet H. Hsiao  
 <br/><br/>
 19th International Pragmatics Conference, Brisbane, Jun 2025
-</div>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Pending Submission
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pending Submission</div><img src='images/poster.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<table>
+<tr>
+<td width="30%">
+  <img src="images/poster.png" alt="sym" width="100%">
+  <div><b>Pending Submission</b></div>
+</td>
+<td width="70%">
 
-[SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation]()
+[SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation]()  
 
 Zixuan Wang\*, **Yiyao Jin**\*,  Xiangyu Zhao (\*: Equal Contribution)
-</div>
+
+</td>
+</tr>
+</table>
 
 
 # 🎖 Honors and Awards
