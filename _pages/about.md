@@ -72,6 +72,20 @@ My research interests are Machine Learning applications, including Large Languag
 </div>
 
 ---
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Pending Submission</div>
+      <img src="images/poster.png" alt="sym" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+
+    <p><a href="#">SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation</a></p>
+
+    <p>Yuchen Gu*, <b>Yiyao Jin</b>*, Jiaruo Liu, Xiaopeng Li, Xiangyu Zhao (*: Equal Contribution)</p>
+  </div>
+</div>
 
 ## Journal
 <div class="paper-box">
@@ -90,23 +104,6 @@ My research interests are Machine Learning applications, including Large Languag
   </div>
 </div>
 
----
-
-## Pending Submission
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Pending Submission</div>
-      <img src="images/poster.png" alt="sym" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-
-    <p><a href="#">SAME-LoRA: Similarity-Attentive Mixture-of-Experts with Low-Rank Domain Adaptation for Multi-Domain Recommendation</a></p>
-
-    <p>Yuchen Gu*, <b>Yiyao Jin</b>*, Jiaruo Liu, Xiaopeng Li, Xiangyu Zhao (*: Equal Contribution)</p>
-  </div>
-</div>
 
 # 📖 Educations
 - *2025.08 - Present*, MSc in Artificial Intelligence, Nanyang Technological University
