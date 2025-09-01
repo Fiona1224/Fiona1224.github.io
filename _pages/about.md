@@ -34,9 +34,10 @@ My research interests are Machine Learning applications, including Large Languag
 - *2021.08*: &nbsp;🎉🎉 Admitted to the Data Science program at City University of Hong Kong.
 
 # 💻 Internships
-- *2025.03 - 2025.06*, NLP-Machine Learning Engineer (LLM + Recommender System), vivo - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司) - AI Dept, Shenzhen.
+- *2025.03 - 2025.06*, NLP-Machine Learning Engineer (LLM + Recommender System), vivo - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司) - AI Dept, Shenzhen, China.
 - *2024.06 - 2024.08*, Machine Learning Engineer (LLM & LMM), ASTRI - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院) - AI Dept, Hong Kong.
 - *2024.01 - 2024.06*, Research Assistant, Lab on Enterprise Process Innovation and Computing, Department of Information Systems, CityU, Hong Kong.
+- *2022.07 - 2022.08*, Risk Control Data Analyst, Zhengzhou Municipal Administration for Market Regulation, Zhengzhou, China.
 
 
 # 📝 Publications & Projects
