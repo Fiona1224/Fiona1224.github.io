@@ -18,13 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I'm JIN Yiyao (金祎瑶). I am currently a postgraduate student majoring in AI at Nanyang Technological University.
+Hi, I'm JIN Yiyao (金祎瑶). I am currently a postgraduate student majoring in AI at Nanyang Technological University(NTU).
 
 My research interests are Machine Learning applications, including Large Language Models, Multimodal Models and Recommender Systems.
 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 Started a Machine Learning Engineer internship at **TikTok** - TikTok Pte. Ltd in Singapore.
 - *2025.08*: &nbsp;🎉🎉 Started my new life at Nanyang Technological University as an AI student.
 - *2025.03*: &nbsp;🎉🎉 Started a NLP-Machine Learning Engineer internship at **vivo** - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司).
 - *2024.07*: &nbsp;🎉🎉 Our team AML_Lab@CityU got second place🥈 in 2 tracks, third place 🥉 in 3 tracks, best students awards in 2 tracks and overall **ranking 2/508** in **Amazon KDD CUP 2024**! A big shoutout to the awesome teamwork with my teammates Pengyue, Jingtong, Xiaopeng and Zixuan!
@@ -34,6 +35,7 @@ My research interests are Machine Learning applications, including Large Languag
 - *2021.08*: &nbsp;🎉🎉 Admitted to the Data Science program at City University of Hong Kong.
 
 # 💻 Internships
+- *2026.01 - now*, Machine Learning Engineer (Risk Control), TikTok - TikTok Pte. Ltd - Business Risk Integrated Control Dept - Community Health, Singapore.
 - *2025.03 - 2025.06*, NLP-Machine Learning Engineer (LLM + Recommender System), vivo - Vivo Mobile Communication Co., Ltd. (维沃移动通信有限公司) - AI Dept, Shenzhen, China.
 - *2024.06 - 2024.08*, Machine Learning Engineer (LLM & LMM), ASTRI - Hong Kong Applied Science and Technology Research Institute Company Limited (香港应用科技研究院) - AI Dept, Hong Kong.
 - *2024.01 - 2024.06*, Research Assistant, Lab on Enterprise Process Innovation and Computing, Department of Information Systems, CityU, Hong Kong.
